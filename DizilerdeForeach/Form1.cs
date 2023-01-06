@@ -12,8 +12,8 @@ namespace DizilerdeForeach
 {
     public partial class Form1 : Form
     {
-        string[] isimler = new string[5]; //Global Dizi
-        int index = 0; //Global Değişken
+        string[] isimler = new string[5]; //Global Dizi.
+        int index = 0; //Global Değişken.
         public Form1()
         {
             InitializeComponent();
